@@ -1,0 +1,36 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.header-part {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+
+}
+
+.header-text-adjust {
+    text-align: center;
+    color: rgb(15, 230, 222);
+    font-size: 30px;
+    padding: 100px 100px;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(25, 73, 174), rgb(214, 57, 29));
+    padding: 10px 30px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
