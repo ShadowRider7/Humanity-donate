@@ -34,9 +34,10 @@ h1 {
 }
 
 .second-part-text-adjust {
-    padding-top: 150px;
     text-align: center;
-    font-size: 30px;
+    font-size: 25px;
+    color: black;
+    padding: 150px 150px;
 }
 
 .two-hundredtk-design {
@@ -45,5 +46,27 @@ h1 {
     left: 518px;
     top: 1022px;
     border-radius: nullpx;
+
+}
+
+.third-part-text-adjust {
+    text-align: center;
+    font-size: 25px;
+    color: black;
+    padding: 150px 150px;
+}
+
+.flexible-third-section {
+    display: flex;
+
+}
+
+.third-width {
+    width: 50%;
+    margin-right: 2%;
+    box-shadow: 10px 10px 40px gray;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-radius: 10px;
 
 }
