@@ -9,6 +9,10 @@ h1 {
     font-size: 60px;
 }
 
+p {
+    padding-bottom: 30px;
+}
+
 .header-part-background {
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
@@ -82,4 +86,15 @@ h1 {
 #education-box {
     background-color: rgba(36, 20, 217, 0.18);
 
+}
+
+.color-text {
+    color: rgb(24, 200, 216);
+}
+
+.footer-text-adjust {
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 10px 100px;
 }
