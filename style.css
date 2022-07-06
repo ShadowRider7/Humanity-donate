@@ -13,10 +13,6 @@ h4 {
     font-weight: 50;
 }
 
-p {
-    padding-bottom: 30px;
-}
-
 .header-part-background {
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
@@ -45,7 +41,7 @@ p {
     text-align: center;
     font-size: 25px;
     color: black;
-    padding: 150px 150px;
+    padding: 75px 75px;
 }
 
 #hundredtk-design {
@@ -73,7 +69,7 @@ p {
     height: 40%;
     width: 60%;
     border: none;
-    font-size: 17px;
+    font-size: 20px;
     border-bottom: 2px solid silver;
     padding-bottom: 50px;
     text-align: center;
@@ -113,6 +109,20 @@ p {
 #education-box {
     background-color: rgba(36, 20, 217, 0.18);
 
+}
+
+#relief-section-adjust {
+    display: flex;
+
+}
+
+.half-width {
+    width: 50%;
+
+}
+
+.half-width img {
+    width: 90%;
 }
 
 .subscribe-part-text-adjust {
