@@ -3,7 +3,6 @@ body {
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
     margin: 0;
-
 }
 
 h1 {
@@ -16,10 +15,6 @@ h4 {
 
 p {
     padding-bottom: 30px;
-}
-
-a {
-    padding-top: 100px;
 }
 
 .header-part-background {
@@ -46,7 +41,7 @@ a {
     border-radius: 5px;
 }
 
-.second-part-text-adjust {
+.donate-today-text-adjust {
     text-align: center;
     font-size: 25px;
     color: black;
@@ -80,12 +75,12 @@ a {
     border: none;
     font-size: 17px;
     border-bottom: 2px solid silver;
-    padding-bottom: 40px;
+    padding-bottom: 50px;
     text-align: center;
 
 }
 
-.third-part-text-adjust {
+.donate-plan-text-adjust {
     text-align: center;
     font-size: 25px;
     color: black;
@@ -120,18 +115,7 @@ a {
 
 }
 
-.color-text {
-    color: rgb(24, 200, 216);
-}
-
-.footer-text-adjust {
-    text-align: center;
-    color: white;
-    background-color: black;
-    padding: 10px 100px;
-}
-
-.update-part-text-adjust {
+.subscribe-part-text-adjust {
     text-align: center;
     padding: 50px;
     background-color: white;
@@ -145,16 +129,28 @@ a {
     padding: 90px 2px 90px 2px;
 }
 
-#input-design {
+#mail-input-design {
     width: 300px;
     height: 30px;
 }
 
-#button-design {
+#mail-button-design {
     background-color: tomato;
     color: white;
     border-radius: 2px;
     border-color: tomato;
     width: 120px;
     height: 38px;
+}
+
+.color-text {
+    color: rgb(24, 200, 216);
+}
+
+
+.footer-text-adjust {
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 10px 100px;
 }
